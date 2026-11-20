@@ -1,6 +1,6 @@
 # vibefather
 
-Original website templates for AI coding tools — each with a live demo, a tested build prompt and a DESIGN.md. Browse them at [vibefather.ai](https://vibefather.ai).
+Original website templates for AI coding tools — each with a live demo, a tested build prompt and a DESIGN.md. Browse them at [vibefather.ai](https://vibefather.ai). Source, MCP reference and setup for 30+ AI coding tools: [github.com/liyupi/vibefather](https://github.com/liyupi/vibefather).
 
 ## Give your AI tool the whole library
 
