@@ -1,0 +1,28 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "ai.vibefather/vibefather",
+  "title": "VibeFather",
+  "description": "Search original website templates with live demos and get the prompt and DESIGN.md behind each.",
+  "version": "0.2.0",
+  "websiteUrl": "https://vibefather.ai/ai",
+  "repository": {
+    "url": "https://github.com/liyupi/vibefather",
+    "source": "github",
+    "id": "1434190323"
+  },
+  "icons": [
+    {
+      "src": "https://vibefather.ai/icon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": [
+        "any"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.vibefather.ai"
+    }
+  ]
+}

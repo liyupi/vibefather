@@ -1,0 +1,59 @@
+{
+  "name": "vibefather",
+  "version": "0.1.2",
+  "description": "Vibe coding website templates for AI coding agents: search 270+ original templates with live demos and add the exact build prompt (prompt.md) and DESIGN.md to your project for Claude Code, Codex, Cursor, Copilot and Gemini CLI. Installs the VibeFather Agent Skill and prints MCP setup.",
+  "homepage": "https://vibefather.ai/ai",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liyupi/vibefather.git",
+    "directory": "cli"
+  },
+  "bugs": "https://github.com/liyupi/vibefather/issues",
+  "author": "Cyber Koi Limited (https://vibefather.ai)",
+  "license": "MIT",
+  "type": "module",
+  "bin": {
+    "vibefather": "dist/index.js"
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "vibe-coding",
+    "website-templates",
+    "ai-website-builder",
+    "prompts",
+    "prompt-templates",
+    "design-md",
+    "landing-page",
+    "claude-code",
+    "codex",
+    "cursor",
+    "copilot",
+    "gemini-cli",
+    "mcp",
+    "mcp-server",
+    "agent-skills",
+    "ai-agent",
+    "cli",
+    "frontend",
+    "tailwindcss",
+    "threejs"
+  ],
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "dev": "tsx src/index.ts",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "prepublishOnly": "tsc -p tsconfig.json"
+  },
+  "devDependencies": {
+    "@types/node": "26.6.5",
+    "tsx": "4.23.15",
+    "typescript": "6.0.3"
+  }
+}
