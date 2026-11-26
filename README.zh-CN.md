@@ -119,6 +119,14 @@ gemini mcp add --transport http vibefather https://mcp.vibefather.ai
 { "mcpServers": { "vibefather": { "serverUrl": "https://mcp.vibefather.ai" } } }
 ```
 
+**DeepSeek Harness（`dsh` 原生插件包 — 一键挂载远程 MCP + 内置 Skill）**
+
+```bash
+dsh plugin add github:liyupi/vibefather
+# 或在 DSH 网页端「插件 -> 发现」中添加自定义插件市场索引：
+# https://vibefather.ai/dsh/index.json
+```
+
 **Claude 桌面端 / claude.ai**：设置 → Connectors → Add custom connector → `https://mcp.vibefather.ai`
 **ChatGPT**：设置 → Apps & Connectors → Advanced → 打开开发者模式，再用 `https://mcp.vibefather.ai` 新建 Connector
 

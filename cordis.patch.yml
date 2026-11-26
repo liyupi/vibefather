@@ -1,0 +1,9 @@
+- insert:
+    - id: vibefather-mcp
+      name: '@deepseek-ai/dsh-mcp-client'
+      config:
+        serverName: vibefather
+        transport: streamable-http
+        url: https://mcp.vibefather.ai
+    - id: vibefather-skill
+      name: 'dsh-plugin-vibefather'

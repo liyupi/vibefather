@@ -197,11 +197,17 @@ Setup page with one-click buttons: [vibefather.ai/ai/kimi-code](https://vibefath
 
 ### DeepSeek Harness
 
-*DeepSeek's open-source agent harness (dsh).* DeepSeek Harness runs DeepSeek models as a local agent with a web UI. It can run the VibeFather CLI, so the Copy prompt instruction on any template page works as-is.
+*DeepSeek's open-source agent harness (dsh).* DeepSeek Harness supports native plugin bundles and custom plugin markets. Install the VibeFather plugin once to mount both the remote MCP server and the bundled Agent Skill automatically.
 
-**MCP server**: add a remote MCP server (Streamable HTTP) named `vibefather` with the URL `https://mcp.vibefather.ai` in DeepSeek Harness's MCP settings.
+**MCP server**
 
-**Tip:** Start it with npx @deepseek-ai/dsh web, then paste the Copy prompt instruction from a template page.
+```bash
+dsh plugin add github:liyupi/vibefather
+# Or add our custom plugin market in DSH Plugins -> Discover:
+# https://vibefather.ai/dsh/index.json
+```
+
+**Tip:** In the DSH Web UI, open Plugins -> Discover -> Add custom index and paste https://vibefather.ai/dsh/index.json to install with one click.
 
 Setup page with one-click buttons: [vibefather.ai/ai/deepseek-harness](https://vibefather.ai/ai/deepseek-harness?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=agents)
 

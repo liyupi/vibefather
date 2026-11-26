@@ -1,0 +1,46 @@
+{
+  "name": "dsh-plugin-vibefather",
+  "version": "1.0.0",
+  "description": "VibeFather website templates, build prompts, and DESIGN.md for DeepSeek Harness (remote MCP server + bundled Agent Skill).",
+  "license": "MIT",
+  "author": "VibeFather",
+  "homepage": "https://vibefather.ai/ai/deepseek-harness",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liyupi/vibefather.git"
+  },
+  "keywords": [
+    "dsh",
+    "dsh-plugin",
+    "deepseek-harness",
+    "vibefather",
+    "mcp",
+    "agent-skill",
+    "website-templates",
+    "vibe-coding"
+  ],
+  "icon": "./assets/logo.svg",
+  "type": "module",
+  "main": "./dsh/index.js",
+  "exports": {
+    ".": "./dsh/index.js",
+    "./cordis.patch.yml": "./cordis.patch.yml",
+    "./locale/*.json": "./locale/*.json",
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "dsh",
+    "skills",
+    "locale",
+    "assets/logo.svg",
+    "cordis.patch.yml",
+    "README.md",
+    "README.zh-CN.md",
+    "LICENSE"
+  ],
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  }
+}
