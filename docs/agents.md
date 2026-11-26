@@ -202,7 +202,7 @@ Setup page with one-click buttons: [vibefather.ai/ai/kimi-code](https://vibefath
 **MCP server**
 
 ```bash
-dsh plugin add github:liyupi/vibefather
+dsh plugin add dsh-plugin-vibefather
 # Or add our custom plugin market in DSH Plugins -> Discover:
 # https://vibefather.ai/dsh/index.json
 ```

@@ -122,7 +122,7 @@ gemini mcp add --transport http vibefather https://mcp.vibefather.ai
 **DeepSeek Harness（`dsh` 原生插件包 — 一键挂载远程 MCP + 内置 Skill）**
 
 ```bash
-dsh plugin add github:liyupi/vibefather
+dsh plugin add dsh-plugin-vibefather
 # 或在 DSH 网页端「插件 -> 发现」中添加自定义插件市场索引：
 # https://vibefather.ai/dsh/index.json
 ```

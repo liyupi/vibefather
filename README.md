@@ -122,7 +122,7 @@ gemini mcp add --transport http vibefather https://mcp.vibefather.ai
 **DeepSeek Harness (`dsh` plugin bundle — mounts MCP + Skill together)**
 
 ```bash
-dsh plugin add github:liyupi/vibefather
+dsh plugin add dsh-plugin-vibefather
 # Or in DSH Web UI -> Plugins -> Discover -> add custom plugin market index:
 # https://vibefather.ai/dsh/index.json
 ```
