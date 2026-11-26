@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <a href="https://vibefather.ai/?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=top-cta"><b>▶ 在线浏览 <!-- S -->690+<!-- /S --> 个 Demo</b></a> &nbsp;·&nbsp;
+  <a href="https://vibefather.ai/?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=top-cta"><b>▶ 在线浏览 <!-- S -->700+<!-- /S --> 个 Demo</b></a> &nbsp;·&nbsp;
   <a href="#快速开始">快速开始</a> &nbsp;·&nbsp;
   <a href="#mcp-服务">MCP 服务</a> &nbsp;·&nbsp;
   <a href="#cli">CLI</a> &nbsp;·&nbsp;
@@ -192,10 +192,10 @@ npx vibefather add interactive-science-explainer
 <sub>Claude Opus 5.5 · Gemini 4 Carbon · Claude Sonnet 5.5 · <a href="https://vibefather.ai/templates/3d-photo-gallery?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=gallery">在线 Demo</a> · <a href="https://github.com/liyupi/awesome-vibe-coding-websites/blob/main/templates/3d-photo-gallery/prompt.zh-CN.md">提示词</a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://vibefather.ai/templates/theater-show-ticketing-website?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=gallery"><img src="https://media.vibefather.ai/t/theater-show-ticketing-website/b816a12d-2056-4db3-9d62-60e1ae7e2204/webp.dfe04f4e45.webp" width="100%" alt="Theater Show Ticketing Website：vibe coding 网站模板，在线 Demo 由 GPT-6.2 Astra、Gemini 4 Neon 生成"></a><br>
-<b><a href="https://vibefather.ai/templates/theater-show-ticketing-website?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=gallery">Theater Show Ticketing Website</a></b><br>
-<sub>Take a seat at an original musical, from the first glimpse of the stage to a scannable ticket.</sub><br>
-<sub>GPT-6.2 Astra · Gemini 4 Neon · <a href="https://vibefather.ai/templates/theater-show-ticketing-website?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=gallery">在线 Demo</a> · <a href="https://github.com/liyupi/awesome-vibe-coding-websites/blob/main/templates/theater-show-ticketing-website/prompt.zh-CN.md">提示词</a></sub>
+<a href="https://vibefather.ai/templates/mechanical-keyboard-configurator?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=gallery"><img src="https://media.vibefather.ai/t/mechanical-keyboard-configurator/80b7609f-06d5-4837-903c-072e7f9833ec/webp.7f62677ecc.webp" width="100%" alt="Mechanical Keyboard Configurator：vibe coding 网站模板，在线 Demo 由 Gemini 4 Neon、GPT-6.2 Astra 生成"></a><br>
+<b><a href="https://vibefather.ai/templates/mechanical-keyboard-configurator?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=gallery">Mechanical Keyboard Configurator</a></b><br>
+<sub>Shape a working keyboard in 3D, hear its switches and compare two builds.</sub><br>
+<sub>Gemini 4 Neon · GPT-6.2 Astra · <a href="https://vibefather.ai/templates/mechanical-keyboard-configurator?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=gallery">在线 Demo</a> · <a href="https://github.com/liyupi/awesome-vibe-coding-websites/blob/main/templates/mechanical-keyboard-configurator/prompt.zh-CN.md">提示词</a></sub>
 </td>
 </tr>
 <tr>
@@ -220,10 +220,10 @@ npx vibefather add interactive-science-explainer
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="https://vibefather.ai/templates/flash-sale-landing-page?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=gallery"><img src="https://media.vibefather.ai/t/flash-sale-landing-page/c4bf71ee-4b86-47cf-97cf-7ff5855e5f65/webp.af23ac5723.webp" width="100%" alt="Flash Sale Landing Page：vibe coding 网站模板，在线 Demo 由 Kimi K3.1 Pro、GLM-5.4 生成"></a><br>
-<b><a href="https://vibefather.ai/templates/flash-sale-landing-page?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=gallery">Flash Sale Landing Page</a></b><br>
-<sub>Evergreen homeware sale page with a countdown, tiered discounts, deal cards, a bundle builder and a gift guide.</sub><br>
-<sub>Kimi K3.1 Pro · GLM-5.4 · <a href="https://vibefather.ai/templates/flash-sale-landing-page?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=gallery">在线 Demo</a> · <a href="https://github.com/liyupi/awesome-vibe-coding-websites/blob/main/templates/flash-sale-landing-page/prompt.zh-CN.md">提示词</a></sub>
+<a href="https://vibefather.ai/templates/theater-show-ticketing-website?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=gallery"><img src="https://media.vibefather.ai/t/theater-show-ticketing-website/b816a12d-2056-4db3-9d62-60e1ae7e2204/webp.dfe04f4e45.webp" width="100%" alt="Theater Show Ticketing Website：vibe coding 网站模板，在线 Demo 由 GPT-6.2 Astra、Gemini 4 Neon 生成"></a><br>
+<b><a href="https://vibefather.ai/templates/theater-show-ticketing-website?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=gallery">Theater Show Ticketing Website</a></b><br>
+<sub>Take a seat at an original musical, from the first glimpse of the stage to a scannable ticket.</sub><br>
+<sub>GPT-6.2 Astra · Gemini 4 Neon · <a href="https://vibefather.ai/templates/theater-show-ticketing-website?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=gallery">在线 Demo</a> · <a href="https://github.com/liyupi/awesome-vibe-coding-websites/blob/main/templates/theater-show-ticketing-website/prompt.zh-CN.md">提示词</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://vibefather.ai/templates/solar-system-3d-explainer?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=gallery"><img src="https://media.vibefather.ai/t/solar-system-3d-explainer/11049830-8ae2-40ca-a87d-b6af68c8820b/webp.1457bd9164.webp" width="100%" alt="Solar System 3D Explainer：vibe coding 网站模板，在线 Demo 由 Claude Sonnet 5.5、GLM-5.4、GPT-6 Astra、Gemini 4 Carbon、Claude Opus 5.5 生成"></a><br>
@@ -248,7 +248,7 @@ npx vibefather add interactive-science-explainer
 很多模板有两个以上模型用完全相同的提示词做出的 Demo，可以并排比较 Claude、GPT、Gemini、Grok、Kimi、GLM、DeepSeek 在真实前端任务上的表现。同一个模板一凑齐两个模型的案例，对比页就会自动生成。
 
 <!-- MODELS:START -->
-**最新上线模型：** [GLM-5.4](https://vibefather.ai/models/glm-5-4?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=models) <sub>27</sub> · [GPT-6.2 Sol](https://vibefather.ai/models/gpt-6-2-sol?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=models) <sub>32</sub> · [GPT-6.2 Astra](https://vibefather.ai/models/gpt-6-2-astra?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=models) <sub>4</sub> · [Gemini 4 Carbon](https://vibefather.ai/models/gemini-4-carbon?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=models) <sub>17</sub> · [Claude Fable 5.2](https://vibefather.ai/models/claude-fable-5-2?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=models) <sub>2</sub> · [Gemini 4 Neon](https://vibefather.ai/models/gemini-4-neon?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=models) <sub>42</sub> · [Kimi K3.1 Pro](https://vibefather.ai/models/kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=models) <sub>107</sub> · [GPT-6.1 Sol](https://vibefather.ai/models/gpt-6-1-sol?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=models) <sub>20</sub> · [全部 14 个模型 →](https://vibefather.ai/zh/models?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=models)
+**最新上线模型：** [GLM-5.4](https://vibefather.ai/models/glm-5-4?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=models) <sub>27</sub> · [GPT-6.2 Sol](https://vibefather.ai/models/gpt-6-2-sol?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=models) <sub>32</sub> · [GPT-6.2 Astra](https://vibefather.ai/models/gpt-6-2-astra?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=models) <sub>6</sub> · [Gemini 4 Carbon](https://vibefather.ai/models/gemini-4-carbon?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=models) <sub>17</sub> · [Claude Fable 5.2](https://vibefather.ai/models/claude-fable-5-2?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=models) <sub>2</sub> · [Gemini 4 Neon](https://vibefather.ai/models/gemini-4-neon?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=models) <sub>42</sub> · [Kimi K3.1 Pro](https://vibefather.ai/models/kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=models) <sub>107</sub> · [GPT-6.1 Sol](https://vibefather.ai/models/gpt-6-1-sol?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=models) <sub>20</sub> · [全部 14 个模型 →](https://vibefather.ai/zh/models?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=models)
 <!-- MODELS:END -->
 
 <p align="center">
