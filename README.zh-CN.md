@@ -12,7 +12,7 @@
 
 <p align="center">
   <b>给 AI 编程 Agent 用的 vibe coding 网站模板库：Agent Skill + 远程 MCP 服务 + CLI。</b><br>
-  让 Claude Code、Codex、Cursor、GitHub Copilot、Gemini CLI 直接调用 <!-- T -->320+<!-- /T --> 个原创网站模板，每个都有在线 Demo。<br>
+  让 Claude Code、Codex、Cursor、GitHub Copilot、Gemini CLI 直接调用 <!-- T -->340+<!-- /T --> 个原创网站模板，每个都有在线 Demo。<br>
   说一句想做什么网站，AI 自己挑模板、一次问清你的信息，再按 Demo 背后的原版提示词做出同款。
 </p>
 
@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <a href="https://vibefather.ai/?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=top-cta"><b>▶ 在线浏览 <!-- S -->700+<!-- /S --> 个 Demo</b></a> &nbsp;·&nbsp;
+  <a href="https://vibefather.ai/?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=top-cta"><b>▶ 在线浏览 <!-- S -->730+<!-- /S --> 个 Demo</b></a> &nbsp;·&nbsp;
   <a href="#快速开始">快速开始</a> &nbsp;·&nbsp;
   <a href="#mcp-服务">MCP 服务</a> &nbsp;·&nbsp;
   <a href="#cli">CLI</a> &nbsp;·&nbsp;
@@ -61,7 +61,7 @@
 ## 为什么用 VibeFather
 
 - **验证过的提示词，不是提示词灵感。** 每个在线 Demo 都是严格按公开的 `prompt.md` 生成的，没有手工加料。照着提示词做，就能得到几乎一样的网站，只是换成你自己的文案、图片和品牌。
-- **让 AI 自己逛模板库。** 装好 Skill 或接上 MCP，Claude Code、Codex、Cursor 就能按类型、风格、动效、技术栈、行业搜索 <!-- T -->320+<!-- /T --> 个模板，打开 Demo、读提示词、直接开做，不用在浏览器和编辑器之间来回复制粘贴。
+- **让 AI 自己逛模板库。** 装好 Skill 或接上 MCP，Claude Code、Codex、Cursor 就能按类型、风格、动效、技术栈、行业搜索 <!-- T -->340+<!-- /T --> 个模板，打开 Demo、读提示词、直接开做，不用在浏览器和编辑器之间来回复制粘贴。
 - **可复用的设计系统。** 每个模板都带 `DESIGN.md`：颜色变量、字号层级、间距、组件和动效规则。可以只把它套到你现有的项目上，之后每次改动都保持同一套风格。
 - **真实的前端技术栈。** Vite、React、TypeScript、Tailwind CSS、Three.js、GSAP、Motion、Lenis 和纯 HTML/CSS。每个 Demo 都是静态网站，上线前都在桌面端和手机端检查过。
 - **全部原创。** 所有模板和 Demo 都是用我们自己的提示词由 AI 生成的。每个模板页都注明灵感来源，图片是 AI 生成或开放授权的素材，只用开源字体和开源组件。
@@ -162,7 +162,7 @@ npx vibefather add interactive-science-explainer
 
 ## 模板展示
 
-下面是 <!-- T -->320+<!-- /T --> 个模板中的一部分，每张图都是 AI 编程工具按提示词真实做出来的 Demo。全部模板在 [vibefather.ai/templates](https://vibefather.ai/templates?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=gallery)，所有提示词的 Markdown 版在 [awesome-vibe-coding-websites](https://github.com/liyupi/awesome-vibe-coding-websites)（带中文参考译文）。
+下面是 <!-- T -->340+<!-- /T --> 个模板中的一部分，每张图都是 AI 编程工具按提示词真实做出来的 Demo。全部模板在 [vibefather.ai/templates](https://vibefather.ai/templates?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=gallery)，所有提示词的 Markdown 版在 [awesome-vibe-coding-websites](https://github.com/liyupi/awesome-vibe-coding-websites)（带中文参考译文）。
 
 <!-- GALLERY:START -->
 <table>
@@ -174,10 +174,10 @@ npx vibefather add interactive-science-explainer
 <sub>DeepSeek V4.1 Flash · Kimi K3.1 Pro · <a href="https://vibefather.ai/templates/3d-flower-garden-toy?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=gallery">在线 Demo</a> · <a href="https://github.com/liyupi/awesome-vibe-coding-websites/blob/main/templates/3d-flower-garden-toy/prompt.zh-CN.md">提示词</a></sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://vibefather.ai/templates/brand-guidelines-website?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=gallery"><img src="https://media.vibefather.ai/t/brand-guidelines-website/a7f069aa-7c0d-438c-8118-edaf78962d2c/webp.001e1890a3.webp" width="100%" alt="Brand Guidelines Website：vibe coding 网站模板，在线 Demo 由 Kimi K3.1 Pro、GLM-5.4 生成"></a><br>
-<b><a href="https://vibefather.ai/templates/brand-guidelines-website?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=gallery">Brand Guidelines Website</a></b><br>
-<sub>Living brand book with copyable colours, live type specimens, playable easing and real downloads.</sub><br>
-<sub>Kimi K3.1 Pro · GLM-5.4 · <a href="https://vibefather.ai/templates/brand-guidelines-website?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=gallery">在线 Demo</a> · <a href="https://github.com/liyupi/awesome-vibe-coding-websites/blob/main/templates/brand-guidelines-website/prompt.zh-CN.md">提示词</a></sub>
+<a href="https://vibefather.ai/templates/focus-timer-habit-companion-app?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=gallery"><img src="https://media.vibefather.ai/t/focus-timer-habit-companion-app/1f151bac-11c0-473c-9a15-0aee5262c14e/webp.7abc4e601b.webp" width="100%" alt="Focus Timer & Habit Companion App：vibe coding 网站模板，在线 Demo 由 GLM-5.4、Gemini 4 Neon 生成"></a><br>
+<b><a href="https://vibefather.ai/templates/focus-timer-habit-companion-app?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=gallery">Focus Timer & Habit Companion App</a></b><br>
+<sub>Serene Pomodoro focus timer PWA with Web Audio ambient mixer, micro-habits, and reflection log.</sub><br>
+<sub>GLM-5.4 · Gemini 4 Neon · <a href="https://vibefather.ai/templates/focus-timer-habit-companion-app?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=gallery">在线 Demo</a> · <a href="https://github.com/liyupi/awesome-vibe-coding-websites/blob/main/templates/focus-timer-habit-companion-app/prompt.zh-CN.md">提示词</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://vibefather.ai/templates/aquarium-exhibits-and-tickets-website?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=gallery"><img src="https://media.vibefather.ai/t/aquarium-exhibits-and-tickets-website/a3c685dd-942c-441a-8b0a-e40f60119f35/webp.632ac8be26.webp" width="100%" alt="Aquarium Exhibits and Tickets Website：vibe coding 网站模板，在线 Demo 由 GLM-5.3、DeepSeek V4.1 Flash、GLM-5.4 生成"></a><br>
@@ -208,10 +208,10 @@ npx vibefather add interactive-science-explainer
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="https://vibefather.ai/templates/interactive-3d-globe-travel-journal?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=gallery"><img src="https://media.vibefather.ai/t/interactive-3d-globe-travel-journal/4ffb6fa3-d2a0-4889-ac20-7d5a52ffd676/webp.5ace2f5df8.webp" width="100%" alt="Interactive 3D Globe Travel Journal：vibe coding 网站模板，在线 Demo 由 Claude Opus 5.5、Claude Sonnet 5.5、DeepSeek V4.1 Flash 生成"></a><br>
-<b><a href="https://vibefather.ai/templates/interactive-3d-globe-travel-journal?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=gallery">Interactive 3D Globe Travel Journal</a></b><br>
-<sub>A travel writer's journal where routes arc across a dotted 3D globe as readers scroll from stop to stop.</sub><br>
-<sub>Claude Opus 5.5 · Claude Sonnet 5.5 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/interactive-3d-globe-travel-journal?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=gallery">在线 Demo</a> · <a href="https://github.com/liyupi/awesome-vibe-coding-websites/blob/main/templates/interactive-3d-globe-travel-journal/prompt.zh-CN.md">提示词</a></sub>
+<a href="https://vibefather.ai/templates/hot-air-balloon-rides-website?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=gallery"><img src="https://media.vibefather.ai/t/hot-air-balloon-rides-website/73abf288-de33-43b2-9df1-81b49295e5c7/webp.4942ae151e.webp" width="100%" alt="Hot Air Balloon Rides Website：vibe coding 网站模板，在线 Demo 由 DeepSeek V4.1 Flash、GLM-5.3 生成"></a><br>
+<b><a href="https://vibefather.ai/templates/hot-air-balloon-rides-website?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=gallery">Hot Air Balloon Rides Website</a></b><br>
+<sub>A dawn-soft balloon ride site with a flight timeline, packages, gift vouchers, and a saved booking request.</sub><br>
+<sub>DeepSeek V4.1 Flash · GLM-5.3 · <a href="https://vibefather.ai/templates/hot-air-balloon-rides-website?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=gallery">在线 Demo</a> · <a href="https://github.com/liyupi/awesome-vibe-coding-websites/blob/main/templates/hot-air-balloon-rides-website/prompt.zh-CN.md">提示词</a></sub>
 </td>
 <td width="33%" valign="top">
 <a href="https://vibefather.ai/templates/carbon-cycle-scroll-explainer?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=gallery"><img src="https://media.vibefather.ai/t/carbon-cycle-scroll-explainer/eb01a183-6ea2-49da-b6d8-8cb5a4f948aa/webp.642a39c89e.webp" width="100%" alt="Carbon Cycle Scroll Explainer：vibe coding 网站模板，在线 Demo 由 Gemini 4 Carbon、Claude Opus 5.5 生成"></a><br>
@@ -220,30 +220,30 @@ npx vibefather add interactive-science-explainer
 <sub>Gemini 4 Carbon · Claude Opus 5.5 · <a href="https://vibefather.ai/templates/carbon-cycle-scroll-explainer?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=gallery">在线 Demo</a> · <a href="https://github.com/liyupi/awesome-vibe-coding-websites/blob/main/templates/carbon-cycle-scroll-explainer/prompt.zh-CN.md">提示词</a></sub>
 </td>
 <td width="33%" valign="top">
+<a href="https://vibefather.ai/templates/interactive-3d-globe-travel-journal?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=gallery"><img src="https://media.vibefather.ai/t/interactive-3d-globe-travel-journal/4ffb6fa3-d2a0-4889-ac20-7d5a52ffd676/webp.5ace2f5df8.webp" width="100%" alt="Interactive 3D Globe Travel Journal：vibe coding 网站模板，在线 Demo 由 Claude Opus 5.5、Claude Sonnet 5.5、DeepSeek V4.1 Flash 生成"></a><br>
+<b><a href="https://vibefather.ai/templates/interactive-3d-globe-travel-journal?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=gallery">Interactive 3D Globe Travel Journal</a></b><br>
+<sub>A travel writer's journal where routes arc across a dotted 3D globe as readers scroll from stop to stop.</sub><br>
+<sub>Claude Opus 5.5 · Claude Sonnet 5.5 · DeepSeek V4.1 Flash · <a href="https://vibefather.ai/templates/interactive-3d-globe-travel-journal?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=gallery">在线 Demo</a> · <a href="https://github.com/liyupi/awesome-vibe-coding-websites/blob/main/templates/interactive-3d-globe-travel-journal/prompt.zh-CN.md">提示词</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="https://vibefather.ai/templates/design-system-guidelines-deck?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=gallery"><img src="https://media.vibefather.ai/t/design-system-guidelines-deck/6857661f-2409-4d03-b4ef-32d95d34467c/webp.5d62201d31.webp" width="100%" alt="Design System Guidelines Deck：vibe coding 网站模板，在线 Demo 由 GLM-5.4、Gemini 4 Neon 生成"></a><br>
+<b><a href="https://vibefather.ai/templates/design-system-guidelines-deck?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=gallery">Design System Guidelines Deck</a></b><br>
+<sub>Swiss 12-slide design system deck with click-to-copy color tokens, live type scale, and motion curves.</sub><br>
+<sub>GLM-5.4 · Gemini 4 Neon · <a href="https://vibefather.ai/templates/design-system-guidelines-deck?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=gallery">在线 Demo</a> · <a href="https://github.com/liyupi/awesome-vibe-coding-websites/blob/main/templates/design-system-guidelines-deck/prompt.zh-CN.md">提示词</a></sub>
+</td>
+<td width="33%" valign="top">
 <a href="https://vibefather.ai/templates/indie-game-launch-page?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=gallery"><img src="https://media.vibefather.ai/t/indie-game-launch-page/8f1b200e-faf2-4daa-a6ea-1f06256e67b7/webp.70cc40965c.webp" width="100%" alt="Indie Game Launch Page：vibe coding 网站模板，在线 Demo 由 DeepSeek V4.1 Flash、GLM-5.3 生成"></a><br>
 <b><a href="https://vibefather.ai/templates/indie-game-launch-page?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=gallery">Indie Game Launch Page</a></b><br>
 <sub>A painterly indie game launch page with parallax scenes, a world map teaser and a wishlist close.</sub><br>
 <sub>DeepSeek V4.1 Flash · GLM-5.3 · <a href="https://vibefather.ai/templates/indie-game-launch-page?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=gallery">在线 Demo</a> · <a href="https://github.com/liyupi/awesome-vibe-coding-websites/blob/main/templates/indie-game-launch-page/prompt.zh-CN.md">提示词</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://vibefather.ai/templates/theater-show-ticketing-website?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=gallery"><img src="https://media.vibefather.ai/t/theater-show-ticketing-website/b816a12d-2056-4db3-9d62-60e1ae7e2204/webp.dfe04f4e45.webp" width="100%" alt="Theater Show Ticketing Website：vibe coding 网站模板，在线 Demo 由 GPT-6.2 Astra、Gemini 4 Neon 生成"></a><br>
 <b><a href="https://vibefather.ai/templates/theater-show-ticketing-website?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=gallery">Theater Show Ticketing Website</a></b><br>
 <sub>Take a seat at an original musical, from the first glimpse of the stage to a scannable ticket.</sub><br>
 <sub>GPT-6.2 Astra · Gemini 4 Neon · <a href="https://vibefather.ai/templates/theater-show-ticketing-website?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=gallery">在线 Demo</a> · <a href="https://github.com/liyupi/awesome-vibe-coding-websites/blob/main/templates/theater-show-ticketing-website/prompt.zh-CN.md">提示词</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://vibefather.ai/templates/solar-system-3d-explainer?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=gallery"><img src="https://media.vibefather.ai/t/solar-system-3d-explainer/11049830-8ae2-40ca-a87d-b6af68c8820b/webp.1457bd9164.webp" width="100%" alt="Solar System 3D Explainer：vibe coding 网站模板，在线 Demo 由 Claude Sonnet 5.5、GLM-5.4、GPT-6 Astra、Gemini 4 Carbon、Claude Opus 5.5 生成"></a><br>
-<b><a href="https://vibefather.ai/templates/solar-system-3d-explainer?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=gallery">Solar System 3D Explainer</a></b><br>
-<sub>Fly through a 3D solar system, flip to true scale and watch the planets vanish into the dark.</sub><br>
-<sub>Claude Sonnet 5.5 · GLM-5.4 · GPT-6 Astra · Gemini 4 Carbon · Claude Opus 5.5 · <a href="https://vibefather.ai/templates/solar-system-3d-explainer?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=gallery">在线 Demo</a> · <a href="https://github.com/liyupi/awesome-vibe-coding-websites/blob/main/templates/solar-system-3d-explainer/prompt.zh-CN.md">提示词</a></sub>
-</td>
-<td width="33%" valign="top">
-<a href="https://vibefather.ai/templates/company-careers-page?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=gallery"><img src="https://media.vibefather.ai/t/company-careers-page/b8e2b5cf-2094-46ca-b193-233eadf64655/webp.9ecdc563d8.webp" width="100%" alt="Company Careers Page：vibe coding 网站模板，在线 Demo 由 GLM-5.4、Kimi K3.1 Pro 生成"></a><br>
-<b><a href="https://vibefather.ai/templates/company-careers-page?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=gallery">Company Careers Page</a></b><br>
-<sub>Careers site with mission and culture, team stories, filterable open roles and a structured application form.</sub><br>
-<sub>GLM-5.4 · Kimi K3.1 Pro · <a href="https://vibefather.ai/templates/company-careers-page?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=gallery">在线 Demo</a> · <a href="https://github.com/liyupi/awesome-vibe-coding-websites/blob/main/templates/company-careers-page/prompt.zh-CN.md">提示词</a></sub>
 </td>
 </tr>
 </table>
@@ -256,7 +256,7 @@ npx vibefather add interactive-science-explainer
 很多模板有两个以上模型用完全相同的提示词做出的 Demo，可以并排比较 Claude、GPT、Gemini、Grok、Kimi、GLM、DeepSeek 在真实前端任务上的表现。同一个模板一凑齐两个模型的案例，对比页就会自动生成。
 
 <!-- MODELS:START -->
-**最新上线模型：** [GLM-5.4](https://vibefather.ai/models/glm-5-4?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=models) <sub>27</sub> · [GPT-6.2 Sol](https://vibefather.ai/models/gpt-6-2-sol?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=models) <sub>32</sub> · [GPT-6.2 Astra](https://vibefather.ai/models/gpt-6-2-astra?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=models) <sub>6</sub> · [Gemini 4 Carbon](https://vibefather.ai/models/gemini-4-carbon?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=models) <sub>17</sub> · [Claude Fable 5.2](https://vibefather.ai/models/claude-fable-5-2?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=models) <sub>2</sub> · [Gemini 4 Neon](https://vibefather.ai/models/gemini-4-neon?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=models) <sub>42</sub> · [Kimi K3.1 Pro](https://vibefather.ai/models/kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=models) <sub>107</sub> · [GPT-6.1 Sol](https://vibefather.ai/models/gpt-6-1-sol?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=models) <sub>20</sub> · [全部 14 个模型 →](https://vibefather.ai/zh/models?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=models)
+**最新上线模型：** [GLM-5.4](https://vibefather.ai/models/glm-5-4?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=models) <sub>46</sub> · [GPT-6.2 Sol](https://vibefather.ai/models/gpt-6-2-sol?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=models) <sub>32</sub> · [GPT-6.2 Astra](https://vibefather.ai/models/gpt-6-2-astra?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=models) <sub>7</sub> · [Gemini 4 Carbon](https://vibefather.ai/models/gemini-4-carbon?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=models) <sub>17</sub> · [Claude Fable 5.2](https://vibefather.ai/models/claude-fable-5-2?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=models) <sub>2</sub> · [Gemini 4 Neon](https://vibefather.ai/models/gemini-4-neon?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=models) <sub>61</sub> · [Kimi K3.1 Pro](https://vibefather.ai/models/kimi-k3-1-pro?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=models) <sub>107</sub> · [GPT-6.1 Sol](https://vibefather.ai/models/gpt-6-1-sol?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=models) <sub>20</sub> · [全部 14 个模型 →](https://vibefather.ai/zh/models?utm_source=github&utm_medium=readme&utm_campaign=vibefather&utm_content=models)
 <!-- MODELS:END -->
 
 <p align="center">
