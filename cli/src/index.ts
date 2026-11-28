@@ -5,6 +5,7 @@ import { mkdir, writeFile } from "node:fs/promises";
 import { homedir } from "node:os";
 import path from "node:path";
 import { spawn } from "node:child_process";
+import { getJson, getText } from "./http.js";
 
 const API = (process.env.VIBEFATHER_API_URL ?? "https://vibefather.ai").replace(/\/$/, "");
 const MCP_URL = process.env.VIBEFATHER_MCP_URL ?? "https://mcp.vibefather.ai";
@@ -25,20 +26,6 @@ for (let i = 0; i < rest.length; i++) {
 
 const dim = (s: string) => (process.stdout.isTTY ? `\x1b[2m${s}\x1b[0m` : s);
 const bold = (s: string) => (process.stdout.isTTY ? `\x1b[1m${s}\x1b[0m` : s);
-
-async function getJson<T>(url: string): Promise<T> {
-  const res = await fetch(url, { headers: { "user-agent": "vibefather-cli" } });
-  if (res.status === 404) throw new Error("Template not found. Try: npx vibefather search <query>");
-  if (!res.ok) throw new Error(`Request failed: ${res.status}`);
-  return (await res.json()) as T;
-}
-
-async function getText(url: string): Promise<string> {
-  const res = await fetch(url, { headers: { "user-agent": "vibefather-cli" } });
-  if (res.status === 404) throw new Error("Template not found. Try: npx vibefather search <query>");
-  if (!res.ok) throw new Error(`Request failed: ${res.status}`);
-  return res.text();
-}
 
 type Item = { slug: string; title?: string; name: string; descriptor: string; tagline: string; stack: string; url: string };
 
